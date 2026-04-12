@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6807BA9E-F800-46FD-8C58-0ED1B0D02BB2}|quiz-12\\quiz-12.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-12\\quiz-12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6807BA9E-F800-46FD-8C58-0ED1B0D02BB2}|quiz-12\\quiz-12.vcxproj|solutionrelative:quiz-12\\quiz-12.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC8E8A8-18AA-431D-BD64-06200F85031C}|quiz-11\\quiz-11.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-11\\quiz-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CC8E8A8-18AA-431D-BD64-06200F85031C}|quiz-11\\quiz-11.vcxproj|solutionrelative:quiz-11\\quiz-11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BEB6649-531C-49F0-A7E3-0920A37379CD}|quiz-10\\quiz-10.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-10\\quiz-10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2BEB6649-531C-49F0-A7E3-0920A37379CD}|quiz-10\\quiz-10.vcxproj|solutionrelative:quiz-10\\quiz-10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182A735F-4348-4017-B722-5AB2EA308531}|quiz-9\\quiz-9.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-9\\quiz-9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{182A735F-4348-4017-B722-5AB2EA308531}|quiz-9\\quiz-9.vcxproj|solutionrelative:quiz-9\\quiz-9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E97997B-CECD-45CF-97AB-AC5A34F1E88F}|quiz-8\\quiz-8.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-8\\quiz-8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E97997B-CECD-45CF-97AB-AC5A34F1E88F}|quiz-8\\quiz-8.vcxproj|solutionrelative:quiz-8\\quiz-8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB673907-7E8C-4EFE-AAED-2BCCB990B93C}|quiz-7\\quiz-7.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-7\\quiz-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB673907-7E8C-4EFE-AAED-2BCCB990B93C}|quiz-7\\quiz-7.vcxproj|solutionrelative:quiz-7\\quiz-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56DE0EA8-871A-49E8-86D4-59F564C13957}|quiz-5\\quiz-5.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-5\\quiz-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56DE0EA8-871A-49E8-86D4-59F564C13957}|quiz-5\\quiz-5.vcxproj|solutionrelative:quiz-5\\quiz-5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|solutionrelative:quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-2\\quiz-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|solutionrelative:quiz-2\\quiz-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 400,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz-12.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-12\\quiz-12.c",
+              "RelativeDocumentMoniker": "quiz-12\\quiz-12.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-12\\quiz-12.c",
+              "RelativeToolTip": "quiz-12\\quiz-12.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T05:14:27.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quiz-11.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-11\\quiz-11.c",
+              "RelativeDocumentMoniker": "quiz-11\\quiz-11.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-11\\quiz-11.c",
+              "RelativeToolTip": "quiz-11\\quiz-11.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T05:10:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quiz-10.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-10\\quiz-10.c",
+              "RelativeDocumentMoniker": "quiz-10\\quiz-10.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-10\\quiz-10.c",
+              "RelativeToolTip": "quiz-10\\quiz-10.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T05:06:42.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quiz-9.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-9\\quiz-9.c",
+              "RelativeDocumentMoniker": "quiz-9\\quiz-9.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-9\\quiz-9.c",
+              "RelativeToolTip": "quiz-9\\quiz-9.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T05:02:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "quiz-8.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-8\\quiz-8.c",
+              "RelativeDocumentMoniker": "quiz-8\\quiz-8.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-8\\quiz-8.c",
+              "RelativeToolTip": "quiz-8\\quiz-8.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T04:55:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "quiz-7.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-7\\quiz-7.c",
+              "RelativeDocumentMoniker": "quiz-7\\quiz-7.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-7\\quiz-7.c",
+              "RelativeToolTip": "quiz-7\\quiz-7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T04:52:26.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "quiz-5.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-5\\quiz-5.c",
+              "RelativeDocumentMoniker": "quiz-5\\quiz-5.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-5\\quiz-5.c",
+              "RelativeToolTip": "quiz-5\\quiz-5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T04:46:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "quiz-3.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-3\\quiz-3.c",
+              "RelativeDocumentMoniker": "quiz-3\\quiz-3.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-3\\quiz-3.c",
+              "RelativeToolTip": "quiz-3\\quiz-3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T04:35:32.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "quiz-2.c",
+              "DocumentMoniker": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-2\\quiz-2.c",
+              "RelativeDocumentMoniker": "quiz-2\\quiz-2.c",
+              "ToolTip": "C:\\junsu\\spacework\\cprac\\4\uC8FC\uCC28 \uACFC\uC81C\\quiz-2\\quiz-2.c",
+              "RelativeToolTip": "quiz-2\\quiz-2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T04:32:40.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
