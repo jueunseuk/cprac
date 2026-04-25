@@ -1,20 +1,20 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
-{
-	int n;
-	while (1) {
-		printf("막대의 높이(종료 -1): ");
-		scanf("%d", &n);
-		
-		if (n == -1) break;
 
-		for (int i = 0; i < n; i++) {
-			printf("*\n");
-		}
+int get_first_digit(int n) {
+    while (n >= 10) {
+        n /= 10;
+    }
+    return n;
+}
 
-		printf("\n");
-	}
+int main() {
+    int num;
+    printf("정수를 입력하시오: ");
+    scanf("%d", &num);
+    int first_digit = get_first_digit(num);
 
-	return 0;
+    printf("가장 상위 자리수: %d\n", first_digit);
+
+    return 0;
 }

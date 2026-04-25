@@ -1,16 +1,18 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
-{
-	int n;
-	printf("정수를 입력하시오: ");
-	scanf("%d", &n);
+int get_tax(int income);
 
-	for (int i = 1; i <= n; i++) {
-		for (int j = 1; j <= i; j++) {
-			printf("%d ", j);
-		}
-		printf("\n");
-	}
-	return 0;
+int main() {
+	int income;
+
+	printf("소득을 입력하시오(만원): ");
+	scanf("%d", &income);
+	printf("소득세는 %d만원입니다", get_tax(income));
+}
+
+int get_tax(int income) {
+	if (income > 1000)
+		return (int)(80 + 0.1 * (income - 1000));
+	else
+		return (int)(income * 0.08);
 }

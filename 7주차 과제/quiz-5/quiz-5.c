@@ -1,18 +1,23 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main() {
-	double r;
-	int n;
-	printf("실수의 값을 입력하시오: ");
-	scanf("%lf", &r);
-	printf("거듭 제곱 횟수를 입력하시오: ");
-	scanf("%d", &n);
-	
-	double result = 1.0;
-	for (int i = 0; i < n; i++) {
-		result *= r;
-	}
 
-	printf("결과값은 %.3lf입니다.\n", result);
+double get_radius() {
+
+	double r;
+	printf("원의 반지름을 입력하시오: ");
+	scanf("%lf", &r);
+
+	return r;
+}
+double cal_area(double r) {
+
+	return 3.141592 * r * r;
+}
+int main() {
+
+	double r;
+	r = get_radius();
+	printf("원의 면적은 %.2lf입니다.\n", cal_area(r));
+
 	return 0;
 }

@@ -1,18 +1,21 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int randint();
+
 int main() {
-    for (int i = 2; i <= 100; i++) {
-        int flag = 1;
 
-        for (int j = 2; j < i; j++) {
-            if (i % j == 0) {
-                flag = 0;
-                break;
-            }
-        }
+	srand(time(NULL));
 
-        if (flag) printf("%d ", i);
-    }
-    
-    return 0;
+	for (int i = 0; i < 10; i++) {
+		printf("%d ", randint());
+	}
+	return 0;
+}
+
+int randint() {
+
+	return rand() % 81 + 10;
 }

@@ -1,16 +1,22 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
-{
-	printf("n의 값을 입력하시오: ");
-	int n;
-	scanf("%d", &n);
 
-	int result = 0;
-	for (int i = 1; i <= n; i++) {
-		result += i * i;
-	}
+int is_leap(int year);
 
-	printf("계산값은 %d입니다.", result);
-	return 0;
+int main() {
+
+	int year;
+
+	printf("연도를 입력하시오: ");
+	scanf("%d", &year);
+
+	if (is_leap(year))
+		printf("%d년은 윤년입니다 ", year);
+	else
+		printf("%d년은 윤년이 아닙니다", year);
+}
+
+int is_leap(int year) {
+
+	return ((year % 400 == 0) || (year % 4 == 0 && year % 100 != 0));
 }
