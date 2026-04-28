@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|solutionrelative:quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{384CF565-037A-48BC-832F-B02A8A3A8913}|quiz-4\\quiz-4.vcxproj|C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-4\\quiz-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{384CF565-037A-48BC-832F-B02A8A3A8913}|quiz-4\\quiz-4.vcxproj|solutionrelative:quiz-4\\quiz-4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C51CEA01-81A5-4C9F-8AA4-2820DEE8618E}|quiz-3\\quiz-3.vcxproj|solutionrelative:quiz-3\\quiz-3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5340D326-1A1C-43D8-A1CD-F67F1EAD1D83}|quiz-2\\quiz-2.vcxproj|C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-2\\quiz-2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "quiz-4.c",
               "DocumentMoniker": "C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-4\\quiz-4.c",
               "RelativeDocumentMoniker": "quiz-4\\quiz-4.c",
               "ToolTip": "C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-4\\quiz-4.c",
               "RelativeToolTip": "quiz-4\\quiz-4.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-31T01:40:20.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "quiz-3.c",
               "DocumentMoniker": "C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-3\\quiz-3.c",
               "RelativeDocumentMoniker": "quiz-3\\quiz-3.c",
               "ToolTip": "C:\\junsu\\workspace\\c\\6\uC8FC\uCC28 \uD034\uC988\\quiz-3\\quiz-3.c",
               "RelativeToolTip": "quiz-3\\quiz-3.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-31T01:31:57.44Z",
               "EditorCaption": ""
