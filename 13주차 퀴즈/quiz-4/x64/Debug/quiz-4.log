@@ -1,0 +1,4 @@
+﻿  quiz-4.c
+C:\junsu\workspace\c\13주차 퀴즈\quiz-4\quiz-4.c(14,3): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\junsu\workspace\c\13주차 퀴즈\quiz-4\quiz-4.c(11,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  quiz-4.vcxproj -> C:\junsu\workspace\c\13주차 퀴즈\x64\Debug\quiz-4.exe
