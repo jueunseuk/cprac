@@ -1,3 +1,2 @@
 ﻿  quiz-1.c
-C:\junsu\workspace\c\6주차 과제\quiz-1\quiz-1.c(10,3): warning C4013: 'Sleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  quiz-1.vcxproj -> C:\junsu\workspace\c\6주차 과제\x64\Debug\quiz-1.exe
+  quiz-1.vcxproj -> C:\junsu\spacework\cprac\7주차 과제\x64\Debug\quiz-1.exe

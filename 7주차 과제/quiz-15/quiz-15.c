@@ -1,18 +1,28 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-int main()
-{
-	int n, r;
-	printf("n의 값: ");
-	scanf("%d", &n);
-	printf("r의 값: ");
-	scanf("%d", &r);
-	
-	int per = 1;
-	for (int i = n; i >= (n - r + 1); i--) {
-		per *= i;
-	}
 
-	printf("%d", per);
-	return 0;
+long factorial(int n);
+
+int main() {
+
+	int i;
+	double result = 1;
+
+	printf("어디까지 계산할까요: ");
+	scanf("%d", &i);
+
+	for (; i > 0; i--) {
+		result += 1.0 / factorial(i);
+	}
+	printf("오일러의 수는 %lf입니다", result);
+}
+
+long  factorial(int n) {
+
+	long  result = 1;
+
+	for (; n > 1; n--)
+		result *= n;
+
+	return result;
 }
