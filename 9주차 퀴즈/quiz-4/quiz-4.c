@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+<<<<<<< HEAD
 int isPrime(int n) {
 	for (int i = 2; i < n; i++) {
 		if (n % i == 0) return 0;
@@ -24,3 +25,19 @@ int main()
 	printf("¼Ò¼ö ¹ß»ý È®·ü = %.2f\n", cnt/500.0*100);
 	return 0;
 }
+=======
+int main()
+{
+	int i, j, sum;
+	printf("4¹ø 2471506 À±ÁØ¼ö\n");
+	for (i = 2; i <= 9; i++) {
+		sum = 0;
+		for (j = 1; j <= 9; j++) {
+			printf("%d*%d=%2d ", i, j, i * j);
+			sum += i * j;
+		}
+		printf("+= %3d\n", sum);
+	}
+	return 0;
+}
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

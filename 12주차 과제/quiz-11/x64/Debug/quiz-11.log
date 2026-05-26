@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(quiz-8.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  quiz-11.c
+C:\junsu\spacework\cprac\12주차 과제\quiz-11\quiz-11.c(11,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\junsu\spacework\cprac\12주차 과제\quiz-11\quiz-11.c(16,20): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  quiz-11.vcxproj -> C:\junsu\spacework\cprac\12주차 과제\x64\Debug\quiz-11.exe

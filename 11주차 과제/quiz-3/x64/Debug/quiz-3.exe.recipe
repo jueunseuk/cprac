@@ -2,7 +2,11 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
+<<<<<<< HEAD
       <FullPath>C:\junsu\workspace\c\11주차\x64\Debug\quiz-3.exe</FullPath>
+=======
+      <FullPath>C:\junsu\spacework\cprac\11주차 과제\x64\Debug\quiz-3.exe</FullPath>
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -1,0 +1,4 @@
+﻿  quiz-4.c
+C:\junsu\spacework\cprac\10주차 과제\quiz-4\quiz-4.c(7,2): warning C4013: 'array_copy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\junsu\spacework\cprac\10주차 과제\quiz-4\quiz-4.c(27,1): warning C4716: 'array_copy': 값을 반환해야 합니다.
+  quiz-4.vcxproj -> C:\junsu\spacework\cprac\10주차 과제\x64\Debug\quiz-4.exe

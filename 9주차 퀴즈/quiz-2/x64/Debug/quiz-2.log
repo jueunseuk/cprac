@@ -1,2 +1,10 @@
 ﻿  quiz-2.c
+<<<<<<< HEAD
   quiz-2.vcxproj -> C:\junsu\workspace\c\9주차 퀴즈\x64\Debug\quiz-2.exe
+=======
+C:\junsu\spacework\cprac\9주차 퀴즈\quiz-2\quiz-2.c(5,17): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+C:\junsu\spacework\cprac\9주차 퀴즈\quiz-2\quiz-2.c(5,20): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+C:\junsu\spacework\cprac\9주차 퀴즈\quiz-2\quiz-2.c(5,14): warning C4101: 'h' :참조되지 않은 지역 변수입니다.
+C:\junsu\spacework\cprac\9주차 퀴즈\quiz-2\quiz-2.c(5,11): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  quiz-2.vcxproj -> C:\junsu\spacework\cprac\9주차 퀴즈\x64\Debug\quiz-2.exe
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

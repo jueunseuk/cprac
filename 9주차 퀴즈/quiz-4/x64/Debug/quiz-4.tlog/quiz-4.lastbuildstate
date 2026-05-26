@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35728:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|C:\junsu\workspace\c\9주차 퀴즈\|
+=======
+PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35730:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|C:\junsu\spacework\cprac\9주차 퀴즈\|
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

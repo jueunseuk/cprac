@@ -1,2 +1,6 @@
 ﻿  quiz-1.c
+<<<<<<< HEAD
   quiz-1.vcxproj -> C:\junsu\workspace\c\9주차 퀴즈\x64\Debug\quiz-1.exe
+=======
+  quiz-1.vcxproj -> C:\junsu\spacework\cprac\9주차 퀴즈\x64\Debug\quiz-1.exe
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

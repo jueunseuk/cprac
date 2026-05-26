@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
@@ -14,5 +15,22 @@ void main()
 	for (i = 2; i < 13; i++) {
 		double ratio = (double) count[i] / n * 100;
 		printf("%2d: %5d {%6.2lf%% }\n", i, count[i], ratio);
+=======
+#include <stdio.h>
+#include <stdlib.h>
+
+void array_fill(int A[], int size) {
+	for (int i = 0; i < size; i++) {
+		A[i] = rand();
+	}
+}
+
+int main() {
+	int arr[10];
+	int size = sizeof(arr) / sizeof(arr[0]);
+	array_fill(arr, size);
+	for (int i = 0; i < size; i++) {
+		printf("%d ", arr[i]);
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc
 	}
 }

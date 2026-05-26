@@ -1,3 +1,7 @@
 ﻿  quiz-4.c
+<<<<<<< HEAD
 C:\junsu\workspace\c\9주차 퀴즈\quiz-4\quiz-4.c(17,11): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   quiz-4.vcxproj -> C:\junsu\workspace\c\9주차 퀴즈\x64\Debug\quiz-4.exe
+=======
+  quiz-4.vcxproj -> C:\junsu\spacework\cprac\9주차 퀴즈\x64\Debug\quiz-4.exe
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

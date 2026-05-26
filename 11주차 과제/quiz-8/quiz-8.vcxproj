@@ -127,6 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <None Include="..\quiz-12\quiz-8.vcxproj" />
+  </ItemGroup>
+  <ItemGroup>
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc
     <ClCompile Include="quiz-8.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

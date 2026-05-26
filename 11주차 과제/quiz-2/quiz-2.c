@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+<<<<<<< HEAD
 void input_array(int arr[], int n) // n개의 정수값을 배열에 입력
 {
 	int input;
@@ -57,3 +58,21 @@ void main() // main은 수정하지 말 것
 	printf("최대 = %d\n", find_max(arr, 10));
 	printf("최소 = %d\n", find_min(arr, 10));
 }
+=======
+#include <time.h>
+
+int main(void) {
+	int arr[3];
+	for (int i = 0; i < 3; i++) {
+		printf("정수를 입력하시오: ");
+		scanf("%d", &arr[i]);
+	}
+
+	printf("=================\n");
+	printf("   주소      값\n");
+	printf("=================\n");
+	for (int i = 0; i < 3; i++) {
+		printf("%x     %d\n", (arr + i), arr[i]);
+	}
+}
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc

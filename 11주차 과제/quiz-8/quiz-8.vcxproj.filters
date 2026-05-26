@@ -15,6 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+=======
+    <None Include="..\quiz-12\quiz-8.vcxproj" />
+  </ItemGroup>
+  <ItemGroup>
+>>>>>>> 7493571a543ce1889e482998efbd204c7ee567dc
     <ClCompile Include="quiz-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>

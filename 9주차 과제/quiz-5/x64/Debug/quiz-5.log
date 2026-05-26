@@ -1,0 +1,5 @@
+﻿  math.c
+C:\junsu\spacework\cprac\9주차 과제\quiz-5\math.c(1,12): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  quiz-5.c
+  코드를 생성하고 있습니다...
+  quiz-5.vcxproj -> C:\junsu\spacework\cprac\9주차 과제\x64\Debug\quiz-5.exe
