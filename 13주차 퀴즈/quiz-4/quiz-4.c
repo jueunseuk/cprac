@@ -21,7 +21,7 @@ void main()
 				continue;
 			}
 		}
-		else if (strcmp(id_input, id[0]) == 1) {
+		else if (strcmp(id_input, id[1]) == 0) {
 			printf("비번 입력 : ");
 			gets(pass_input);
 			if (strcmp(pass_input, pass[1]) != 0) {
@@ -29,7 +29,7 @@ void main()
 				continue;
 			}
 		}
-		else if (strcmp(id_input, id[0]) == 2) {
+		else if (strcmp(id_input, id[2]) == 0) {
 			printf("비번 입력 : ");
 			gets(pass_input);
 			if (strcmp(pass_input, pass[2]) != 0) {
@@ -37,7 +37,7 @@ void main()
 				continue;
 			}
 		}
-		else if (strcmp(id_input, id[0]) == 3) {
+		else if (strcmp(id_input, id[3]) == 0) {
 			printf("비번 입력 : ");
 			gets(pass_input);
 			if (strcmp(pass_input, pass[3]) != 0) {
