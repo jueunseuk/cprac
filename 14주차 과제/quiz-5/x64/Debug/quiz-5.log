@@ -1,0 +1,8 @@
+﻿  quiz-5.c
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(8,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(8,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(11,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'char *'입니다.
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(11,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) char *' 형식의 인수 2과(와) 충돌합니다.
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(7,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\junsu\spacework\cprac\14주차 과제\quiz-5\quiz-5.c(10,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  quiz-5.vcxproj -> C:\junsu\spacework\cprac\14주차 과제\x64\Debug\quiz-5.exe

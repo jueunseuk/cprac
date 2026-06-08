@@ -1,0 +1,4 @@
+﻿  quiz-7.c
+C:\junsu\spacework\cprac\14주차 과제\quiz-7\quiz-7.c(13,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\junsu\spacework\cprac\14주차 과제\quiz-7\quiz-7.c(17,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  quiz-7.vcxproj -> C:\junsu\spacework\cprac\14주차 과제\x64\Debug\quiz-7.exe

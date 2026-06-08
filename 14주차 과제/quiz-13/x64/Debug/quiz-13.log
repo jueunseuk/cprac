@@ -1,0 +1,5 @@
+﻿  quiz-13.c
+C:\junsu\spacework\cprac\13주차 과제\quiz-13\quiz-13.c(30,7): warning C5286: 열거형 형식 'shape_type'에서 열거형 형식 'shpae_type'(으)로의 암시적 변환, 이 경고를 무시하려면 명시적 캐스트를 사용하세요.
+C:\junsu\spacework\cprac\13주차 과제\quiz-13\quiz-13.c(36,7): warning C5286: 열거형 형식 'shape_type'에서 열거형 형식 'shpae_type'(으)로의 암시적 변환, 이 경고를 무시하려면 명시적 캐스트를 사용하세요.
+C:\junsu\spacework\cprac\13주차 과제\quiz-13\quiz-13.c(42,7): warning C5286: 열거형 형식 'shape_type'에서 열거형 형식 'shpae_type'(으)로의 암시적 변환, 이 경고를 무시하려면 명시적 캐스트를 사용하세요.
+  quiz-13.vcxproj -> C:\junsu\spacework\cprac\13주차 과제\x64\Debug\quiz-13.exe

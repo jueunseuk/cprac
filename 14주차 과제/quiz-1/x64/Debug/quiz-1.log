@@ -1,0 +1,6 @@
+﻿  quiz-1.c
+C:\junsu\spacework\cprac\14주차 과제\quiz-1\quiz-1.c(13,8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'short *'입니다.
+      C:\junsu\spacework\cprac\14주차 과제\quiz-1\quiz-1.c(13,8):
+      서식 문자열에서 '%hd'을(를) 사용하는 것이 좋습니다.
+  
+  quiz-1.vcxproj -> C:\junsu\spacework\cprac\14주차 과제\x64\Debug\quiz-1.exe
